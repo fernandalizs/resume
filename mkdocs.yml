@@ -1,1 +1,3 @@
-site_name: Fernanda Liz Silva
+site_name: Fernanda Liz
+theme:
+  name: material
