@@ -1,7 +1,7 @@
 # Fernanda Liz Silva
 Desenvolvedora de Software
 ## Contatos
-**Celular / WhatsApp** <br>
+**Celular / [WhatsApp](https://wa.me/5512991744960)** <br>
 (12) 99174-4960 <br>
 **E-mail** <br>
 fernandaliz2004@hotmail.com <br>
@@ -37,3 +37,13 @@ Abr/2022 - Previsão de término Jul/2025
 **Assistente Administrativo** <br>
 SENAI <br>
 Set/2019 - Mar/2021 <br>
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+- VueJS
+- Vuetify
+- Andrômeda
+- Python
+- Djangos
