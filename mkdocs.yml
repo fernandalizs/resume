@@ -1,3 +1,6 @@
 site_name: Fernanda Liz
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: deep purple
