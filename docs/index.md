@@ -6,6 +6,7 @@ Desenvolvedora de Software
 **E-mail** <br>
 fernandaliz2004@hotmail.com <br>
 **[Linkedin](https://www.linkedin.com/in/fernanda-liz-silva/)**<br>
+**[GitHub](https://github.com/fernandalizs)**
 
 ## Sobre mim
 Sou participante da 1ª Turma do Buser Tech, programa que une formação universitária com estágio remunerado, com o objetivo de formar jovens talentos que queiram acelerar seu desenvolvimento na área de tecnologia. Juntamente com o Buser Tech, curso Bacharelado em Ciência da Computação pela Descomplica. Meu maior interesse é em front-end e UX. 
@@ -46,4 +47,7 @@ Set/2019 - Mar/2021 <br>
 - Vuetify
 - Andrômeda
 - Python
-- Djangos
+- Django
+- Djavue
+- PostgreSQL
+- Git
