@@ -1,6 +1,8 @@
 site_name: Fernanda Liz
 theme:
   name: material
+  logo: img/curriculo-e-cv.png
+  favicon: img/curriculo-e-cv.png
   palette:
     scheme: slate
     primary: deep purple
