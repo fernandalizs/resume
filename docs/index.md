@@ -5,12 +5,10 @@ hide:
 # Fernanda Liz Silva
 Desenvolvedora de Software
 ## Contatos
-**Celular / [WhatsApp](https://wa.me/5512991744960)** <br>
-(12) 99174-4960 <br>
-**E-mail** <br>
-fernandaliz2004@hotmail.com <br>
-**[Linkedin](https://www.linkedin.com/in/fernanda-liz-silva/)**<br>
-**[GitHub](https://github.com/fernandalizs)**
+:telephone_receiver: **[(12) 99174-4960](https://wa.me/5512991744960)** <br>
+:email: [**fernandaliz2004@hotmail.com**](mailto:fernandaliz2004@hotmail.com) <br>
+**[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fernanda-liz-silva/)** <br>
+**[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/fernandalizs)**
 
 ## Sobre mim
 Sou Joseense, tenho 18 anos, estudante de Análise e Desenvolvimento de Sistemas.
@@ -64,5 +62,6 @@ Set/2019 - Mar/2021 <br>
 ## Portfólio 
 - **[Página Pessoal](https://fernandalizs.github.io/Desafio-Final/)** - Sobre mim estático
 - **[Letroca](https://fernandalizs.github.io/Letroca/)** - Versão em português do jogo Wordle
-- **[ToDo List](https://github.com/fernandalizs/ToDoComponents)** - Lista de tarefas com vue, componentes e vuetify
+- **[ToDo List](https://github.com/fernandalizs/ToDoComponents)** - Lista de tarefas com Vue.JS e Vuetify
 - **[Encurtador de URL](https://github.com/felipesoaresfl/django-encurtador-URL)** - Encurtador de URL em Django
+- **[Jogo da Vida](https://github.com/fernandalizs/gameoflife)** - Autômato celular de Conway em Python e Vue.JS
