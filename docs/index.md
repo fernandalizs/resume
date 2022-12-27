@@ -5,7 +5,7 @@ hide:
 # Fernanda Liz Silva
 Desenvolvedora de Software
 ## Contatos
-:material-whatsapp: **[(12) 99174-4960](https://wa.me/5512991744960)** <br>
+:simple-whatsapp: **[(12) 99174-4960](https://wa.me/5512991744960)** <br>
 :material-email: [**fernandaliz2004@hotmail.com**](mailto:fernandaliz2004@hotmail.com) <br>
 :simple-linkedin: **[LinkedIn](https://www.linkedin.com/in/fernanda-liz-silva/)** <br>
 :simple-github: **[GitHub](https://github.com/fernandalizs)**
