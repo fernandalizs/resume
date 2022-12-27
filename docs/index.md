@@ -5,8 +5,8 @@ hide:
 # Fernanda Liz Silva
 Desenvolvedora de Software
 ## Contatos
-:telephone_receiver: **[(12) 99174-4960](https://wa.me/5512991744960)** <br>
-:email: [**fernandaliz2004@hotmail.com**](mailto:fernandaliz2004@hotmail.com) <br>
+[:telephone_receiver:] **[(12) 99174-4960](https://wa.me/5512991744960)** <br>
+[:email:] [**fernandaliz2004@hotmail.com**](mailto:fernandaliz2004@hotmail.com) <br>
 **[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fernanda-liz-silva/)** <br>
 **[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/fernandalizs)**
 
