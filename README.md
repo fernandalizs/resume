@@ -1,4 +1,4 @@
-## Currículo em mkdocks
+# Currículo em MkDocs
 
 ```
 pip install -r requirements.txt
